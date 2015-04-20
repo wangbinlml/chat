@@ -1,6 +1,3 @@
-/**
- * Created by wangbin on 15-2-10.
- */
 var Account = module.exports = {};
 var users = [
     {
